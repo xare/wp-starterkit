@@ -1,0 +1,17 @@
+{
+    "name": "xare/wp-plugin-starterkit",
+    "description": "A WP starterkit plugin",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Inc\\Starterkit\\": "./inc"
+        }
+    },
+    "authors": [{
+        "name": "Juan Etxenike Almeida",
+        "email": "xaresd@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {}
+}
